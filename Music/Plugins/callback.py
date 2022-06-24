@@ -1037,7 +1037,7 @@ async def vhkcbt(_, query: CallbackQuery):
             [
                 [        
                     InlineKeyboardButton(
-                        "⁨⌯ ٰ𝘿ٌِ𝙀ٓ𝙑 ٰ𝘽𝘼𝙍𝙇𝙊 ˹✈🔥˼⁩", url=f"https://t.me/bar_lo0o0"
+                        "⁨⌯ ٰ𝘿ٌِ𝙀ٓ𝐕𝐄𝐍𝐎𝐌 ˹✈🔥˼⁩", url=f"https://t.me/E_E_9_9"
                     ),
                 ],
                 [                  
@@ -1058,7 +1058,7 @@ async def sthjbt(_, query: CallbackQuery):
             [
                 [        
                     InlineKeyboardButton(
-                        "⁨⌯ ٰ𝘿ٌِ𝙀ٓ𝙑 ٰ𝘽𝘼𝙍𝙇𝙊 ˹✈🔥˼⁩", url=f"https://t.me/bar_lo0o0"
+                        "⁨⌯ ٰ𝘿ٌِ𝙀ٓ𝐕𝐄𝐍𝐎𝐌 ˹✈🔥˼⁩", url=f"https://t.me/E_E_9_9"
                     ),
                 ],
                 [                  
