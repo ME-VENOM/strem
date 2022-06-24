@@ -45,7 +45,7 @@ def start_pannel():
             InlineKeyboardButton("🚨╎الاوامـــر╎💁‍♂️", url="https://t.me/BARL0o0_HELP_SOURCE/2"),
         ],
         [
-            InlineKeyboardButton("⁨⌯ 𝘉𝘈𝘙𝘓𝘖 • 𝘚𝘖𝘜𝘙𝘊𝘌 ˹🤺˼⁩", url="https://t.me/bar_lo0o0o"),
+            InlineKeyboardButton("⁨⌯ 𝐕𝐄𝐍𝐎𝐌 • 𝘚𝘖𝘜𝘙𝘊𝘌 ˹🤺˼⁩", url="https://t.me/bar_lo0o0o"),
         ],
     ]
     return (
